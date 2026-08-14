@@ -1,0 +1,5 @@
+[
+  {"asset": "BTC", "label": "Bitcoin"},
+  {"asset": "ETH", "label": "Ethereum"},
+  {"asset": "SOL", "label": "Solana"}
+]
