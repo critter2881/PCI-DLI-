@@ -1,0 +1,5 @@
+[
+  {"symbol": "BTC", "liquidity": 0.82, "regime": "expansion"},
+  {"symbol": "ETH", "liquidity": 0.76, "regime": "balanced"},
+  {"symbol": "SOL", "liquidity": 0.64, "regime": "volatile"}
+]
