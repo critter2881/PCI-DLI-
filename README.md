@@ -1,6 +1,6 @@
 # PCI-DLI
 
-[![CI](https://github.com/critter2881/PCI-DLI-/actions/workflows/ci.yml/badge.svg)](https://github.com/critter2881/PCI-DLI-/actions/workflows/ci.yml)
+[![CI](https://github.com/critter2881/PCI-DLI/actions/workflows/ci.yml/badge.svg)](https://github.com/critter2881/PCI-DLI/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 **PCI-DLI** is a sovereign engine for real-time liquidity scoring, regime detection,
